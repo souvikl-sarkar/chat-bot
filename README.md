@@ -2,6 +2,13 @@
 
 A small chatbot interface built with React and Vite. It displays a conversation, lets you type and send messages, and shows a chatbot reply using the `supersimpledev` package. The interface is split into reusable components for the message list, individual messages, and input area.
 
+## Get the project from GitHub
+
+```bash
+git clone https://github.com/souvikl-sarkar/chat-bot.git
+cd chat-bot
+```
+
 ## Features
 
 - Chat-style conversation with separate user and chatbot messages.
